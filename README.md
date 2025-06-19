@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Smart Electricity Billing System**
 - 🌱 I’m currently learning **Node.js, Express.js and Spring Boot**
-- 👨‍💻 All of my projects are available at [harshnimbalkar.vercel.app](https://your-portfolio-link.com)
+- 👨‍💻 All of my projects are available at [[harshnimbalkar.vercel.app](https://harshportfolio6181.netlify.app/)]
 - 💬 Ask me about **Java, React.js, and UI design**
 - 📫 How to reach me **harshnimbalkar@email.com**
 - ⚡ Fun fact **I make bugs disappear with Ctrl+Z magic!**
@@ -38,5 +38,5 @@
 ### 📫 Let's Connect:
 <p align="left">
   <a href="https://linkedin.com/in/harsh-nimbalkar6183" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin" alt="linkedin" /></a>
-  <a href="mailto:harshnimbalkar@email.com"><img align="center" src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white" alt="email" /></a>
+  <a href="mailto:harshnimbalkar6181@email.com"><img align="center" src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white" alt="email" /></a>
 </p>
