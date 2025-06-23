@@ -22,8 +22,8 @@
 ---
 
 ### 🚀 Featured Projects:
-- 🔗 [**Organify**](https://github.com/harsh6183/organo): Health-focused responsive website
-- 🔗 [**Iconify**](https://github.com/harsh6183/iconify): Personalized folder icon downloader
+- 🔗 [**Notesapp**]([https://github.com/harsh6183/organo](https://modernoteswebapp.netlify.app/)): Modern Notesweb application
+- 🔗 [**PasswordGenerator**]([https://github.com/harsh6183/iconify](https://innovativepasswordgenerator.netlify.app/)): Personalized PasswordGenerator
 
 ---
 
