@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Nimbalkar</h1>
-<h3 align="center">Aspiring Software Engineer | Frontend Developer | UI/UX Enthusiast</h3>
+<h3 align="center">Aspiring Software Engineer | Frontend Developer | Java</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=9B59B6&center=true&vCenter=true&width=435&lines=Frontend+Developer;UI%2FUX+Designer;Tech+Explorer+%F0%9F%9A%80" alt="Typing SVG" />
@@ -22,8 +22,8 @@
 ---
 
 ### 🚀 Featured Projects:
-- 🔗 [**Notesapp**](https://modernoteswebapp.netlify.app/)): Modern Notesweb application
-- 🔗 [**PasswordGenerator**](https://innovativepasswordgenerator.netlify.app/)): Personalized PasswordGenerator
+- 🔗 [**Notesapp**](https://modernoteswebapp.netlify.app/): Modern Notesweb application
+- 🔗 [**PasswordGenerator**](https://innovativepasswordgenerator.netlify.app/): Personalized PasswordGenerator
 
 ---
 
